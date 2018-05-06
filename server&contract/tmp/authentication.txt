@@ -1,0 +1,1 @@
+This file validates the user has been given Immunization at the Ohio Medical Center on 06/21/2017. Please make sure the user is able to decrypt this file using his private key.

@@ -1,0 +1,11 @@
+gpg --encrypt --recipient "Ranjan Biswas" authentication.txt
+
+ipfs add authentication.txt.gpg
+
+gpg --decrypt encryptedfile.txt.gpg > changefile.txt
+
+
+gpg --decrypt QmUEDpDzdxYeyNFHE7avqDHUKYiby7sCbrmA2QRV6eTe6a > changefile.txt
+
+
+
